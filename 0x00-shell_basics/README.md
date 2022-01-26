@@ -10,4 +10,6 @@
 
 5-listfilesdigitonly lists all files with ID's represented numerically
 
+6-firstdirectory creates a new directory in /tmp/ folder
+
 
