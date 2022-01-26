@@ -4,3 +4,4 @@
 
 2-bring_me_home brings shell to the home directory but it doesn't actually work
 
+3-listfiles lists all of the files in long form
