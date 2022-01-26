@@ -8,4 +8,6 @@
 
 4-listmorefiles lists hidden files as well
 
+5-listfilesdigitonly lists all files with ID's represented numerically
+
 
