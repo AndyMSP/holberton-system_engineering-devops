@@ -54,7 +54,7 @@
 	- Write a script that displays all users and their home directories, sorted by users based on the /etc/passwd file
 - 100-empty_casks
 	-Write a command that finds all empty files and directories in the current directory and all sub-directories.
-		-Only the names of the files and directories should be displayed (not the entire path)
-		-Hidden files should be listed
-		-One file name per line
-		-The listing should end with a new line
+		- Only the names of the files and directories should be displayed (not the entire path)
+		- Hidden files should be listed
+		- One file name per line
+		- The listing should end with a new line
