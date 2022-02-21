@@ -1,7 +1,7 @@
 # 0x00. Shell, basics
 ## These small projects teach how to create basic shell scripts
 - 0-current_working_directory
-	prints the path to the current working directory
+ - prints the path to the current working directory
 - 1-listit: displays the contents of the current directory
 - 2-bring_me_home: brings shell to the home directory (must use "source")
 - 3-listfiles: lists all of the files in long form
