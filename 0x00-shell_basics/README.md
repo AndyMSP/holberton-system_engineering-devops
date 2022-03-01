@@ -42,3 +42,5 @@
 - 103-commas
 	- Write a command that lists all the files and directories of the current directory, separated by commas (,).
 	- Advanced
+- school.mgc
+	- A file, school.mgc, that can be used with the command file to detect School data files.  See school file for human readable file.  Format for use: "file -m school.mgc *".
