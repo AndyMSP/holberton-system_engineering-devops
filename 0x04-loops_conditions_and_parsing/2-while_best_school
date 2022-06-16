@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #uses while to print "Best School" ten times
 i=0
-while [ $i -lt 10 ]
+while ((i<10))
 do
 	echo Best School
 	((i++))
