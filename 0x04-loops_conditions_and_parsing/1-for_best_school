@@ -4,5 +4,4 @@
 for _i in {1..10}
 do
 	echo Best School
-	echo test
 done
