@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
 #print contents of directory after first "-" only
-ls | cut -f 2- -d "-" -s
+files=$(ls)
+for name in $files
+do
+	echo $name | cut -f 2- -d "-" -s
+done
