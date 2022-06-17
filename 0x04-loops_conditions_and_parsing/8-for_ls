@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#print contents of directory after first "-" only
+ls | cut -f 2- -d "-" -s
