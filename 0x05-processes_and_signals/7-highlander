@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #repeat "To infinity and beyond".  If SIGTERM is caught
 #write "I am invincible"
-trap "echo I am invincible" SIGTERM
+trap "echo I am invincible!!!" SIGTERM
 #shellcheck disable=SC2078
 while [ True ]; do
 	echo To infinity and beyond
